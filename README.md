@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0f4c81&height=200&section=header&text=Alpha%20Diallo&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Gestion%20de%20projet%20SI%20%26%20Transformation%20Digitale&descAlignY=60&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0f4c81&height=200&section=header&text=Alpha%20Diallo&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20ML%20Enthusiast&descAlignY=60&descColor=8b949e&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://avatars.githubusercontent.com/u/168538530?v=4" width="120" style="border-radius:50%;"/>
+
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Passionate+about+Data+%26+AI;NLP+%7C+Computer+Vision+%7C+Big+Data;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
@@ -143,9 +149,15 @@ A full-stack word guessing game. A random word is drawn, its definition displaye
 
 <div align="center">
 
-![Alpha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlphaDiallo58&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AlphaDiallo58&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaDiallo58&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaDiallo58&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AlphaDiallo58&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e"/>
 
 </div>
 
@@ -164,3 +176,4 @@ A full-stack word guessing game. A random word is drawn, its definition displaye
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c81,50:1a1f2e,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
+
