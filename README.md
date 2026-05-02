@@ -1,271 +1,181 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1e,100:0d1f3c&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0f4c81&height=200&section=header&text=Alpha%20Diallo&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20ML%20Enthusiast&descAlignY=60&descColor=8b949e&animation=fadeIn" width="100%"/>
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║           DATA  ──────►  INSIGHT  ──────►  DECISION             ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-# Alpha Oumar Diallo
-
-**Data Scientist · Chef de Projet SI · Consultant en Transformation Digitale**
-
-*Ingénieur Bac+6 en Data Science (INSA Rouen) · Mastère Spécialisé SI (Institut Mines-Télécom)*
+<img src="https://avatars.githubusercontent.com/u/168538530?v=4" width="120" style="border-radius:50%;"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alpha%20Oumar%20Diallo-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alpha-oumar-diallo-02a0031a3)
-[![GitHub](https://img.shields.io/badge/GitHub-AlphaDiallo58-181717?style=flat-square&logo=github)](https://github.com/AlphaDiallo58)
-[![Email](https://img.shields.io/badge/Email-alpha.diallo9510%40outlook.fr-0078D4?style=flat-square&logo=microsoftoutlook)](mailto:alpha.diallo9510@outlook.fr)
-[![Disponibilité](https://img.shields.io/badge/Disponible-Septembre%202026-2ea44f?style=flat-square)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Passionate+about+Data+%26+AI;NLP+%7C+Computer+Vision+%7C+Big+Data;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1e,100:0d1f3c&height=3" width="100%"/>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alpha-oumar-diallo-02a0031a3)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlphaDiallo58)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:alpha.diallo9510@outlook.fr)
 
 </div>
 
-<br/>
+---
 
-## Positionnement
+## Hello, I'm Alpha.
 
-Double compétence en **ingénierie de la donnée** et **management des systèmes d'information**, avec une expérience opérationnelle de la chaîne complète — de la collecte brute au pilotage stratégique. Je travaille à l'interface entre les équipes métiers, IT et data pour concevoir, industrialiser et gouverner des projets à fort impact mesurable.
-
-<br/>
+Passionate about mathematics, data analysis, and AI, I take pleasure in learning and sharing my knowledge. I work across the full data chain — from raw collection to actionable insights — and at the intersection of data engineering, machine learning, and digital transformation.
 
 ---
 
-## Expériences professionnelles
+## Tech Stack
 
-### Chef de Projet Digitalisation des processus métiers — JCDecaux *(Alternance)*
-`Sept. 2025 – Sept. 2026` · Paris
+<div align="center">
 
-Pilotage de projets de transformation digitale au sein de la Direction de l'Exploitation (DEX).
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-- Recueil des besoins métiers et rédaction de spécifications fonctionnelles détaillées
-- Coordination transverse des parties prenantes : métiers, DSI, équipes data
-- Conception de tableaux de bord KPI et outils d'aide à la décision
-- Automatisation des workflows, gouvernance et fiabilisation des données
-- **Résultat : −35 % de temps de traitement sur les processus digitalisés**
-
----
-
-### Data Scientist — Equasens *(Alternance)*
-`Oct. 2023 – Déc. 2024` · France
-
-Développement de solutions data au service de la performance commerciale CRM.
-
-- Préparation, analyse des données CRM et feature engineering avancé
-- Segmentation client par clustering (K-Means, CAH, analyse RFM)
-- Conception et industrialisation d'un système de recommandation hybride (collaboratif + content-based)
-- Dashboards Python d'analyse des ventes déployés en production
-- **Résultats : +20 % de taux de conversion marketing · Précision modèle : 91 %**
+</div>
 
 ---
 
-### Data Analyst — Orange *(Stage)*
-`Avril 2023 – Sept. 2023` · France
+## Projects
 
-Refonte de l'architecture data et du reporting BI sur les processus de gestion des tickets clients.
-
-- Modélisation dimensionnelle (faits/dimensions), schéma relationnel SQL Server
-- Développement d'un cube OLAP, mesures calculées, hiérarchies métiers
-- Conception des ETL (SSIS), transformation des données, reporting opérationnel
-- **Résultat : −25 % de tickets non qualifiés via restructuration des KPI**
-
-<br/>
+### Machine Learning & NLP
 
 ---
 
-## Compétences techniques
+#### [Tweet Classification — BERT & SVM](https://github.com/AlphaDiallo58/Classification_Tweet_With_BERT_n_SVM)
 
-### Langages & Scripts
+Dangerous tweet detection using state-of-the-art NLP. BERT embeddings feed an SVM classifier, served through a Flask web interface. Full pipeline from raw Twitter data to deployed model.
 
-```
-Python        ███████████████████░  95%   ·  Production, ML, scripting, automation
-SQL           ██████████████████░░  90%   ·  SQL Server, PostgreSQL, requêtes complexes
-R             ██████████████░░░░░░  70%   ·  Analyse statistique, visualisation
-VBA / M       █████████████░░░░░░░  65%   ·  Automatisation Excel, Power Query
-```
-
-### Data Science & Intelligence Artificielle
-
-```
-Scikit-learn  ██████████████████░░  90%   ·  Classification, régression, clustering
-NLP / BERT    █████████████████░░░  85%   ·  HuggingFace, transformers, embeddings
-PyTorch       ████████████████░░░░  80%   ·  Réseaux de neurones, fine-tuning
-TensorFlow    ███████████████░░░░░  75%   ·  Deep Learning, CNN, modélisation
-Computer Vis. ███████████████░░░░░  75%   ·  OpenCV, détection, segmentation
-```
-
-### Big Data, Cloud & Systèmes d'Information
-
-```
-PySpark       ███████████████░░░░░  75%   ·  Traitement distribué, Hadoop
-Azure         ██████████████░░░░░░  70%   ·  Cloud, déploiement, stockage
-SSAS / SSIS   ██████████████░░░░░░  70%   ·  Cube OLAP, ETL, intégration de données
-NoSQL         ██████████████░░░░░░  70%   ·  MongoDB, Cassandra
-SAP           ████████████░░░░░░░░  60%   ·  SI d'entreprise, intégration ERP
-```
-
-### Business Intelligence & Visualisation
-
-```
-Power BI      █████████████████░░░  85%   ·  Modèles sémantiques, DAX, rapports
-Excel / VBA   █████████████████░░░  85%   ·  Tableaux de bord, macros, Power Pivot
-Tableau       ████████████████░░░░  80%   ·  Dashboards interactifs, storytelling data
-```
-
-### Gestion de Projet SI & Transformation Digitale
-
-```
-Cadrage SI    █████████████████░░░  85%   ·  Analyse fonctionnelle, spécifications
-Coordination  █████████████████░░░  85%   ·  Parties prenantes métiers / IT / Data
-Méthode Agile ███████████████░░░░░  75%   ·  Jira, sprints, backlog, rituals
-Gouvernance   ███████████████░░░░░  75%   ·  Qualité des données, RGPD, conformité
-Architecture  ██████████████░░░░░░  70%   ·  Urbanisation SI, modélisation, flux
-```
-
-<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![SVM](https://img.shields.io/badge/SVM-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ---
 
-## Projets
+#### [Movie Recommendation System — MovieLens](https://github.com/AlphaDiallo58/recomandation_systeme)
 
-### Détection de Tweets Dangereux — NLP & Deep Learning
-`Oct. 2023 – Juil. 2024` · INSA Rouen · [voir le repo](https://github.com/AlphaDiallo58/Classification_Tweet_With_BERT_n_SVM)
+Hybrid recommendation engine built on the MovieLens dataset. Combines collaborative filtering and content-based approaches to generate personalized movie suggestions.
 
-Classification de contenus Twitter à risque à l'aide de modèles NLP avancés.
-
-- État de l'art approfondi sur les techniques de traitement du texte
-- Pipeline complet : collecte → nettoyage → tokenisation → entraînement
-- Comparaison BERT vs SVM, analyse exploratoire et visualisation
-- **Résultat : 85 % de généralisation sur données de test**
-
-`Python` `BERT` `HuggingFace` `Scikit-learn` `NLP` `Deep Learning`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
-### Prédiction des réclamations d'assurance — BNP Paribas Cardif
-`Janv. 2022 – Mars 2023` · Université Gustave Eiffel & École des Ponts ParisTech
+#### [Statistics, Learning & Optimisation](https://github.com/AlphaDiallo58/Statistics_Learning_n_Optimisation)
 
-Modélisation prédictive pour identifier les réclamations à approbation rapide.
+A mathematical toolkit covering SVM classification, recursive logistic regression, advanced optimisation algorithms, and the Travelling Salesman Problem (TSP).
 
-- Feature engineering sur données clients, modélisation statistique
-- Comparaison des algorithmes : Random Forest, Régression Logistique, KNN
-- Évaluation rigoureuse : matrice de confusion, F1-score, courbe ROC/AUC
-- **Résultat : 83 % de généralisation sur le jeu de test**
-
-`Python` `Random Forest` `Régression` `KNN` `Statistiques`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
-### Système de Recommandation Hybride
-[recomandation_systeme](https://github.com/AlphaDiallo58/recomandation_systeme) · Industrialisé en production chez Equasens
-
-Architecture hybride combinant filtrage collaboratif et approche content-based.
-
-`Python` `Collaborative Filtering` `Content-Based` `Scikit-learn`
+### Big Data
 
 ---
 
-### Big Data avec Apache Spark
-[spark](https://github.com/AlphaDiallo58/spark)
+#### [Sentiment Analysis with Apache Spark](https://github.com/AlphaDiallo58/spark)
 
-Traitement et analyse de jeux de données massifs en environnement distribué.
+Distributed sentiment analysis leveraging Apache Spark for scalable text processing. Covers preprocessing, vectorization, and large-scale classification on JSON datasets.
 
-`PySpark` `Hadoop` `Jupyter`
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
 ### Computer Vision
-[cumputer-vision](https://github.com/AlphaDiallo58/cumputer-vision)
-
-Exploration des techniques de vision par ordinateur : détection, segmentation, classification d'images.
-
-`Python` `OpenCV` `CNN` `Deep Learning`
-
-<br/>
 
 ---
 
-## Formation
+#### [Computer Vision](https://github.com/AlphaDiallo58/cumputer-vision)
 
-| Période | Diplôme | Établissement |
-|---------|---------|---------------|
-| 2025 – 2026 | Mastère Spécialisé® Conseil & Management en SI — BAC+6 | Institut Mines-Télécom |
-| 2023 – 2024 | Ingénieur Spécialisé® Expert en Data Science & IA — BAC+6 | INSA Rouen |
-| 2022 – 2023 | Master 2 Mathématiques | Université Gustave Eiffel & École des Ponts ParisTech |
-| 2021 – 2022 | Master 1 Mathématiques | Université Gustave Eiffel & École des Ponts ParisTech |
-| 2018 – 2021 | Licence Mathématiques & Informatique | Université Gustave Eiffel & École des Ponts ParisTech |
+Exploration of computer vision techniques: object detection, image segmentation, and classification using deep neural networks.
 
-**Certifications** · Analyste de données (LinkedIn Learning) · Microsoft Excel Expert · SQL Server (LinkedIn Learning)
-
-<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
-## Stack technologique
+### Web Development
+
+---
+
+#### [Word Guessing Game — Flask](https://github.com/AlphaDiallo58/Flask)
+
+A full-stack word guessing game. A random word is drawn, its definition displayed, and the user must guess it. Built with Flask for the API, JavaScript for event handling, and a custom CSS/HTML interface.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+---
+
+## Skills
+
+```
+Mathematics & Statistics  ████████████████████  Expert
+Machine Learning          ███████████████████░  Advanced
+NLP / Deep Learning       ████████████████░░░░  Advanced
+Big Data (Spark)          ██████████████░░░░░░  Intermediate
+Computer Vision           ██████████████░░░░░░  Intermediate
+Web Development (Flask)   ████████████░░░░░░░░  Intermediate
+```
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=azure,docker,git,github&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=flask,js,html,mysql&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,linux,vscode,r&theme=dark" />
-
-</div>
-
-<br/>
-
----
-
-## Statistiques GitHub
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AlphaDiallo58&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=4f8cc9&icon_color=4f8cc9&text_color=c9d1d9&bg_color=0d1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AlphaDiallo58&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaDiallo58&layout=compact&theme=github_dark&hide_border=true&title_color=4f8cc9&text_color=c9d1d9&bg_color=0d1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaDiallo58&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AlphaDiallo58&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4f8cc9&fire=4f8cc9&currStreakLabel=4f8cc9&sideLabels=c9d1d9&dates=8b949e&stroke=4f8cc9"/>
+<img src="https://streak-stats.demolab.com?user=AlphaDiallo58&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e"/>
 
 </div>
-
-<br/>
-
----
-
-## Engagement associatif
-
-**Membre d'Article 1** — Association pour l'égalité des chances
-
-- **Cofondateur · Motiv'action** *(2019–2020)* — Soutien aux collégiens en décrochage scolaire : ateliers de coaching, soutien scolaire pluridisciplinaire, ateliers cuisine / débat / théâtre
-- **Ambassadeur · Ma1son d'Article 1** *(2020–2022)* — Accompagnement d'étudiants dans des projets à impact social, partage d'expérience et conseil
-
-<br/>
 
 ---
 
 <div align="center">
 
-**Français · Natif &nbsp;|&nbsp; Anglais · Professionnel**
+*"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AlphaDiallo58&color=4f8cc9&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=AlphaDiallo58&color=58a6ff&style=flat-square&label=Profile+Views)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0a0f1e&height=3&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c81,50:1a1f2e,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
