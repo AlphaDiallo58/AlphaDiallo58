@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0f4c81&height=200&section=header&text=Alpha%20Diallo&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20ML%20Enthusiast&descAlignY=60&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0f4c81&height=200&section=header&text=Alpha%20Diallo&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Gestion%20de%20projet%20SI%20%26%20Transformation%20Digitale&descAlignY=60&descColor=8b949e&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://avatars.githubusercontent.com/u/168538530?v=4" width="120" style="border-radius:50%;"/>
+<img src="https://avatars.githubusercontent.com/u/168538530?v=4" width="130" style="border-radius:50%;"/>
+
+<br/><br/>
+
+# Alpha Oumar Diallo
+
+**Data Scientist | Gestion de projet SI & Transformation Digitale**
 
 <br/>
 
@@ -22,31 +28,79 @@
 
 ## Hello, I'm Alpha.
 
-Passionate about mathematics, data analysis, and AI, I take pleasure in learning and sharing my knowledge. I work across the full data chain — from raw collection to actionable insights — and at the intersection of data engineering, machine learning, and digital transformation.
+Passionate about mathematics, data analysis, and AI, I take pleasure in learning and sharing my knowledge. I work across the full data chain, from raw collection to actionable insights, at the intersection of data engineering, machine learning, and digital transformation.
 
 ---
 
 ## Tech Stack
 
-<div align="center">
+**Data Science & AI**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Big Data & Cloud**
+
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-</div>
+**Business Intelligence & Visualisation**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**Gestion de Projet SI**
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Mermaid](https://img.shields.io/badge/Mermaid-FF3670?style=flat-square&logo=mermaid&logoColor=white)
+
+**Web & Deployment**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+---
+
+## Skills
+
+**Data Science & Intelligence Artificielle**
+```
+Machine Learning          ███████████████████░  95%
+NLP / BERT                █████████████████░░░  85%
+Deep Learning             ████████████████░░░░  80%
+Computer Vision           ███████████████░░░░░  75%
+Big Data / Spark          ███████████████░░░░░  75%
+```
+
+**Business Intelligence & Data Viz**
+```
+Power BI                  █████████████████░░░  85%
+Tableau                   ████████████████░░░░  80%
+Excel / VBA               █████████████████░░░  85%
+```
+
+**Gestion de Projet SI & Transformation Digitale**
+```
+Analyse fonctionnelle     █████████████████░░░  85%
+Coordination SI           █████████████████░░░  85%
+Méthode Agile / Jira      ███████████████░░░░░  75%
+Gouvernance des données   ███████████████░░░░░  75%
+Architecture SI           ██████████████░░░░░░  70%
+```
 
 ---
 
@@ -54,11 +108,9 @@ Passionate about mathematics, data analysis, and AI, I take pleasure in learning
 
 ### Machine Learning & NLP
 
----
-
 #### [Tweet Classification — BERT & SVM](https://github.com/AlphaDiallo58/Classification_Tweet_With_BERT_n_SVM)
 
-Dangerous tweet detection using state-of-the-art NLP. BERT embeddings feed an SVM classifier, served through a Flask web interface. Full pipeline from raw Twitter data to deployed model.
+Dangerous tweet detection using BERT embeddings combined with an SVM classifier, served through a Flask web interface. Full pipeline from raw Twitter data to deployed model.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![BERT](https://img.shields.io/badge/BERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
@@ -70,10 +122,10 @@ Dangerous tweet detection using state-of-the-art NLP. BERT embeddings feed an SV
 
 #### [Movie Recommendation System — MovieLens](https://github.com/AlphaDiallo58/recomandation_systeme)
 
-Hybrid recommendation engine built on the MovieLens dataset. Combines collaborative filtering and content-based approaches to generate personalized movie suggestions.
+Hybrid recommendation engine built on the MovieLens dataset, combining collaborative filtering and content-based approaches to generate personalized suggestions.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
@@ -81,10 +133,10 @@ Hybrid recommendation engine built on the MovieLens dataset. Combines collaborat
 
 #### [Statistics, Learning & Optimisation](https://github.com/AlphaDiallo58/Statistics_Learning_n_Optimisation)
 
-A mathematical toolkit covering SVM classification, recursive logistic regression, advanced optimisation algorithms, and the Travelling Salesman Problem (TSP).
+A mathematical toolkit covering SVM classification, recursive logistic regression, advanced optimisation algorithms and the Travelling Salesman Problem (TSP).
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
@@ -92,26 +144,21 @@ A mathematical toolkit covering SVM classification, recursive logistic regressio
 
 ### Big Data
 
----
-
 #### [Sentiment Analysis with Apache Spark](https://github.com/AlphaDiallo58/spark)
 
 Distributed sentiment analysis leveraging Apache Spark for scalable text processing. Covers preprocessing, vectorization, and large-scale classification on JSON datasets.
 
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
 ### Computer Vision
 
----
-
 #### [Computer Vision](https://github.com/AlphaDiallo58/cumputer-vision)
 
-Exploration of computer vision techniques: object detection, image segmentation, and classification using deep neural networks.
+Exploration of computer vision techniques including object detection, image segmentation and classification using deep neural networks.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
@@ -122,11 +169,9 @@ Exploration of computer vision techniques: object detection, image segmentation,
 
 ### Web Development
 
----
-
 #### [Word Guessing Game — Flask](https://github.com/AlphaDiallo58/Flask)
 
-A full-stack word guessing game. A random word is drawn, its definition displayed, and the user must guess it. Built with Flask for the API, JavaScript for event handling, and a custom CSS/HTML interface.
+A full-stack word guessing game. A random word is drawn, its definition displayed, and the user must guess it. Built with Flask for the backend API, JavaScript for event handling, and a custom CSS/HTML interface.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -135,32 +180,13 @@ A full-stack word guessing game. A random word is drawn, its definition displaye
 
 ---
 
-## Skills
-
-```
-Mathematics & Statistics  ████████████████████  Expert
-Machine Learning          ███████████████████░  Advanced
-NLP / Deep Learning       ████████████████░░░░  Advanced
-Big Data (Spark)          ██████████████░░░░░░  Intermediate
-Computer Vision           ██████████████░░░░░░  Intermediate
-Web Development (Flask)   ████████████░░░░░░░░  Intermediate
-```
-
----
-
 ## GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AlphaDiallo58&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaDiallo58&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+![Alpha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlphaDiallo58&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true)
 
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AlphaDiallo58&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaDiallo58&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
 
 </div>
 
