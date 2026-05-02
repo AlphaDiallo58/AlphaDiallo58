@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0f4c81&height=200&section=header&text=Alpha%20Diallo&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Gestion%20de%20projet%20SI%20%26%20Transformation%20Digitale&descAlignY=60&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0f4c81&height=200&section=header&text=Alpha%20Diallo&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20ML%20Enthusiast&descAlignY=60&descColor=8b949e&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://avatars.githubusercontent.com/u/168538530?v=4" width="120" style="border-radius:50%;"/>
 
 <br/>
 
@@ -145,15 +149,9 @@ A full-stack word guessing game. A random word is drawn, its definition displaye
 
 <div align="center">
 
-<!-- Contributions & top langages -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlphaDiallo58&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&cache_seconds=1800)](https://github.com/AlphaDiallo58)
-&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaDiallo58&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&cache_seconds=1800)](https://github.com/AlphaDiallo58)
-
-<br/>
-
-<!-- Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=AlphaDiallo58&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&cache_seconds=1800)](https://github.com/AlphaDiallo58)
+<!-- Statistiques textuelles (mise à jour manuelle pour l'instant) -->
+**70** Total Contributions • **1** Current Streak • **2** Longest Streak  
+*Apr 30, 2024 - Present*
 
 </div>
 
