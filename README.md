@@ -2,18 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0f4c81&height=200&section=header&text=Alpha%20Diallo&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Gestion%20de%20projet%20SI%20%26%20Transformation%20Digitale&descAlignY=60&descColor=8b949e&animation=fadeIn" width="100%"/>
 
-<br/>
-
-<img src="https://avatars.githubusercontent.com/u/168538530?v=4" width="130" style="border-radius:50%;"/>
-
-<br/><br/>
-
-# Alpha Oumar Diallo
-
-**Data Scientist | Gestion de projet SI & Transformation Digitale**
-
-<br/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Passionate+about+Data+%26+AI;NLP+%7C+Computer+Vision+%7C+Big+Data;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
 <br/>
@@ -72,35 +60,6 @@ Passionate about mathematics, data analysis, and AI, I take pleasure in learning
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
-
----
-
-## Skills
-
-**Data Science & Intelligence Artificielle**
-```
-Machine Learning          ███████████████████░  95%
-NLP / BERT                █████████████████░░░  85%
-Deep Learning             ████████████████░░░░  80%
-Computer Vision           ███████████████░░░░░  75%
-Big Data / Spark          ███████████████░░░░░  75%
-```
-
-**Business Intelligence & Data Viz**
-```
-Power BI                  █████████████████░░░  85%
-Tableau                   ████████████████░░░░  80%
-Excel / VBA               █████████████████░░░  85%
-```
-
-**Gestion de Projet SI & Transformation Digitale**
-```
-Analyse fonctionnelle     █████████████████░░░  85%
-Coordination SI           █████████████████░░░  85%
-Méthode Agile / Jira      ███████████████░░░░░  75%
-Gouvernance des données   ███████████████░░░░░  75%
-Architecture SI           ██████████████░░░░░░  70%
-```
 
 ---
 
